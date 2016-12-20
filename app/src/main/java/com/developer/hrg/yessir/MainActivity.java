@@ -59,10 +59,7 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
-    /**
-     * Receiving speech input
-     * */
-    @Override
+
     protected void onActivityResult(int requestCode, int resultCode, Intent data) {
         super.onActivityResult(requestCode, resultCode, data);
 
@@ -79,7 +76,8 @@ public class MainActivity extends AppCompatActivity {
 
         }
     }
+public void hamid (){
 
-
+}
 
 }
